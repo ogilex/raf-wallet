@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Raf Wallet</string>
+    <string name="novcanik_sistem_za_studente_rafa">Wallet system for RAF students</string>
+    <string name="unesite_ime">Enter name</string>
+    <string name="unesi_prezime">Enter surname</string>
+    <string name="unesi_sifru">Enter password</string>
+    <string name="unesi_ime_banke">Enter name of bank</string>
+    <string name="prijava">Login</string>
+    <string name="stanje">State</string>
+    <string name="unos">Input</string>
+    <string name="profil">Profile</string>
+    <string name="liste">Lists</string>
+    <string name="prihodi">Income</string>
+    <string name="rashodi">Expense</string>
+    <string name="stanje_racuna">Account balance</string>
+    <string name="prihod">Income:</string>
+    <string name="razlika">Difference:</string>
+    <string name="unos_novog_prihoda_ili_rashoda">New income or expense</string>
+    <string name="naslov">Title:</string>
+    <string name="kolicina">Ammount:</string>
+    <string name="dodaj_u_listu">Enter in list</string>
+    <string name="ime">Name:</string>
+    <string name="prezime">Surname:</string>
+    <string name="banka">Bank:</string>
+    <string name="odjava">Logout</string>
+    <string name="sacuvan_izmene">Save changes</string>
+    <string name="podaci_o_prihodu_rashodu">Information of income/expense</string>
+    <string name="opis">Details:</string>
+    <string name="odustani">Cancel</string>
+    <string name="izmeni">Edit</string>
+    <string name="podaci_o_korisniku">User information</string>
+    <string name="expense">Expense</string>
+
+    <string-array name="financije">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+</resources>
